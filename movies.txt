@@ -1,0 +1,17 @@
+[الامتحان]
+⬅️هنعمل زي الموقع ده بالظبط
+http://routeegypt.com/exam/
+⬅️لما بنعمل hover على ال Movie بيعرضلي ال Movie Title, Movie Overview, Movie Rate, Release Date وكل ده بيرجعلك من ال API
+⬅️ال API جاي من الويبسايت ده https://www.themoviedb.org/
+⬅️دا ال Documentation بتاع ال API https://www.themoviedb.org/documentation/api
+⬅️لازم بتعمل Generate ل API Key عشان تستخدمه
+⬅️لو فيه مشكله ف انك تعمل API Key ف ده API جاهز بيرجعلك ال Trending Movies وكمان موجود فيه ال API Key تقدر تستخدمه
+https://api.themoviedb.org/3/trending/all/day?api_key=eba8b9a7199efdcb0ca1f96879b83c44
+⬅️ف الأمتحان هتلاقوا فيه Popular, Trending, Top Rated, etc ف اغير ايه ف ال API عشان اجيب الحاجات المختلفه دي ؟
+هتلاقوه هنا https://developers.themoviedb.org/3/movies/get-movie-details
+⬅️ف ال Contact Us هنستخدم ال ReGex 
+⬅️حاول تطلع نفس ال Animations 
+⬅️ميعاد تسليم الامتحان بكره السبت قبل الساعه 10 بالليل
+⬅️ بعد ما نخلص هنرفع الأسايمنت على GitHub ونتأكد انه Public وهنبعت اللينك على الايميل ده route.exams@gmail.com
+اللينك هيكون في ال Mail body وف ال Mail title اكتب الجروب بتاعك اللي كنت بتحضر فيه 
+اعملوا منشن لبعض
